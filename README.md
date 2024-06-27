@@ -24,6 +24,8 @@ Welcome to Anti-Chess! This project sets up a command-line interface (CLI) for t
    git clone https://github.com/saptaparnibose/Anti-Chess_Question-01.git
 
 ### Example 
+
+```
                                       
 
     //\\\\             ||   _        __ ||                ___   ___
@@ -46,4 +48,6 @@ __|_A_B_C_D_E_F_G_H
 2 | P P P P P P P P
 1 | R N B Q K B N R
                                        
-White's move (e.g., A2 A3), 'quit' to end or 'display' to see moves: 
+White's move (e.g., A2 A3), 'quit' to end or 'display' to see moves:
+
+```
